@@ -56,7 +56,7 @@ console.log(me.aboutMe());
 ![](https://img.shields.io/badge/CSS-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=6aa6f8)
 
 # 📊 GitHub Stats
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coaxus)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coaxus)]
 
 
 
