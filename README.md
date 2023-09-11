@@ -54,14 +54,11 @@ console.log(me.aboutMe());
 ![](https://img.shields.io/badge/CSS-SCSS-informational?style=flat&logo=sass&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/CSS-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=6aa6f8)
 
+# 📊 GitHub Stats
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=coaxus)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=coaxus-ux&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
