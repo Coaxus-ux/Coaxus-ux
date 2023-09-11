@@ -2,6 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=coaxus-ux)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![wakatime](https://wakatime.com/badge/user/51cd1d0d-64a0-44b7-ac35-28eac0a0a33e.svg)](https://wakatime.com/@51cd1d0d-64a0-44b7-ac35-28eac0a0a33e)
 
 
 ```javascript
