@@ -23,6 +23,10 @@ class SoftwareEngineer {
 me = new SoftwareEngineer('Julian Trujillo', 'Software Engineer', 'English', 'Spanish');
 
 console.log(me.aboutMe());
+
+// Hello, my name is Julian Trujillo, i'am Software Engineer. 
+//                My native language is Spanish, but i can also speak English
+
 ```
 
 ## 📝 Me
