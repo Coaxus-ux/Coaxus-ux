@@ -15,12 +15,12 @@ class SoftwareEngineer {
         this.motherTongue = motherTongue;
     }
     aboutMe() {
-        return `Hello, my name is ${this.name}, i'am studying ${this.role}. 
-                My mother tonge is ${this.motherTongue}, but i can also speak ${this.secondIdiom}`
+        return `Hello, my name is ${this.name}, i'am ${this.role}. 
+                My native language is ${this.motherTongue}, but i can also speak ${this.secondIdiom}`
     }
 }
 
-me = new SoftwareEngineer('Julian Trujillo', 'SoftwareEngineer', 'English', 'Spanish');
+me = new SoftwareEngineer('Julian Trujillo', 'Software Engineer', 'English', 'Spanish');
 
 console.log(me.aboutMe());
 ```
